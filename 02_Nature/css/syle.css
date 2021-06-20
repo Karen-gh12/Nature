@@ -1,0 +1,75 @@
+header{
+    background: url('../images/pexels-photo-1650035_3.jpeg');
+    min-height: 430px;
+    background-size: cover;
+}
+.bg-color{
+    background-color: rgba(0, 0, 0, 0.1);
+    min-height: 630;
+}
+#imgLogo{
+    margin: 0 10px;
+    height: 35px;
+    width: 35px;
+}
+#menuNature{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+.logo-name{
+    margin-top: 100px;
+    color: #133913; 
+    font-size:80px;
+    font-family: 'Pacifico', cursive;
+}
+#subtitulo{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+}
+.hader-h{
+    color: #133913;
+    font-size: 40px;
+    margin-top: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    margin-bottom: 40px;
+}
+.tarjeta-texto{
+    font-family: 'Shadows Into Light', cursive;
+}
+#acerca{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#acerca-img{
+    background: url(../images/pexels-photo-532168.jpeg) no-repeat center top;
+    background-size: cover; /*cover(cubre todo 100%ancho) contain(respecto al alto) auto, 100px (ancho) 200px (alto),*/
+    min-height: 430px;
+}
+.header-h{
+    color: #133913;
+    font-size: 40px;
+    margin-top: 230px;
+    font-family: 'Shadows Into Light', cursive;
+}
+#contacto{
+    padding: 50px 50px;
+}
+.acerca-texto{
+    padding: 30px 100px 10px 100px;
+}
+/*!mportant*/
+.form-control:focus{
+    border-color: 133913 !important;
+    box-shadow: 0 0 5px rgba(19, 57, 19, 1) !important;
+}
+.imgSocial{
+    height: 35px;
+    min-height: 30px;
+}
+#pie{
+    margin-top: 20px;
+    min-height: 20px;
+}
+#cuidan{
+    color: palevioletred;
+}
